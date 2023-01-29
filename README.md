@@ -7,7 +7,7 @@ To design, develop and deploy a web application for event registration.
 Create a new frame.
 
 # step 1:
-
+open figma
 # Step 2:
 Select any one preset size of your choice.
 
