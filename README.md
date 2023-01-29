@@ -23,20 +23,22 @@ Create pages based on your need and link them.
 # Step 6:
 Validate the HTML and CSS code.
 
-Step 6:
+# Step 7:
 Publish the website in the given URL.
 
 
-### Step 6:
+# Step 8:
 
 Validate the HTML and CSS code.
 
-### Step 6:
+# Step 9:
 
 Publish the website in the given URL.
 
 ## DESIGN Tool:
  figma
+ 
+ 
 ## PROGRAM :
 ```
 /* Home Page */
@@ -75,6 +77,8 @@ text-align: center;
 color: #000000;
 text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.
 ```
+
+
 ## OUTPUT:
 ![Screenshot (35)](https://user-images.githubusercontent.com/119390227/215317703-2dfcac71-f3e9-4774-9ba5-529468350dbd.png)
 ![Screenshot (33)](https://user-images.githubusercontent.com/119390227/215317725-670ba4a6-5866-4151-99d5-c392cc4fbbc3.png)
